@@ -1,5 +1,5 @@
 {
-  "name": "enum-code-message",
+  "name": "@4a/enum-code-message",
   "version": "0.1.0",
   "description": "code message for api",
   "main": "index.js",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gavinning/enum-code-message/issues"
   },
-  "homepage": "https://github.com/gavinning/enum-code-message#readme"
+  "homepage": "https://github.com/gavinning/enum-code-message#readme",
+  "dependencies": {
+    "@4a/enum": "^0.3.1"
+  }
 }
