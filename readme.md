@@ -32,7 +32,7 @@ Enum({
 
 ### Extend
 ```js
-CodeMessage.extend({
+CodeMessage.$extend({
     lossEmail: { code: 400101, 'Loss email' },
     lossTelephone: { code: 400102, 'Loss telephone' },
 })
